@@ -1,4 +1,5 @@
 # What this project about.
+## This is how i learn .Net Core Technology before the courses starts.
 ### In this project I would like to answer on a few questions such as:
   - How to configure application with Services and MiddleWare components?
   - What dependency injection is?
